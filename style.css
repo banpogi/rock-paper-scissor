@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #C96868;
+
+    
+}
+
+.container {
+
+ padding: 100px;
+ margin: 100px;
+ display: flex;  
+ 
+    justify-content: center;   
+    align-items: center;   
+ gap: 32px;
+
+ 
+}
+
+
+button {
+    padding: 20px;
+    background-color: #FADFA1;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+p {
+    text-align: center;
+    color: white    ;
+    font-size: 2rem;
+}
