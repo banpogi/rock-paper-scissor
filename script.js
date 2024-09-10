@@ -72,7 +72,7 @@ document.querySelector
 
 function playGame(){
 
-
+   
     const buttonRock = document.querySelector(".button-one")
     const buttonPaper = document.querySelector(".button-two")
     const buttonScissor  = document.querySelector(".button-three")
